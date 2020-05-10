@@ -9,7 +9,7 @@
 import logging
 from logging import handlers
 
-from common.annotation.design_patterns import singleton_with_args
+from annotation.design_patterns import singleton_with_args
 
 
 @singleton_with_args
