@@ -3,8 +3,7 @@
 """ 
 @author zhangbohan.dell@gmail.com
 @function:
-@create 2020/3/26 15:06
+@create 2020/4/6 19:40
 """
 
-from common.log import *
-from common.annotation import *
+__all__=["design_patterns"]
