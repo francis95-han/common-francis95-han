@@ -8,8 +8,9 @@
 
 import time,os
 
-from common.log import Logger
+from common_francis.log import Logger
 
+__all__=["Logger","logger_cls","logger_func"]
 
 log_dir = "log"
 if not os.path.exists(log_dir):
