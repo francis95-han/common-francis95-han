@@ -5,4 +5,7 @@
 @function:
 @create 2020/5/10 19:10
 """
-__all__=["log","annotation"]
+import common_francis.log
+import common_francis.annotation
+
+__all__ =['annotation','log']
